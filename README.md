@@ -7,6 +7,10 @@
   "live_url": "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
   "categorie":"NOVELAS",
+  "facebook": "01",
+  "youtube": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
+  "website": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
   },
   "1":{
   "id": "1",
