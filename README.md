@@ -1,17 +1,13 @@
 # JamboNovelas
 {
   "0":{
-  "id":"1",
-  "name":"TOP NOVELAS",
-  "description":"Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : fairspcc@gmail.com",
-  "live_url":"https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
-  "categorie":"NOVELAS",
-  "facebook":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "youtube":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "twitter": "https://237webradio.ice.infomaniak.ch/237webradio-96.aac",
-  "website":"https://237webradio.ice.infomaniak.ch/237webradio-96.aac"
-  },
+  "idT":"1",
+  "nameT":"TOP NOVELAS",
+  "descriptionT":"Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : fairspcc@gmail.com",
+  "live_urlThttps://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
+  "thumbnailT":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+  "categorieT":"NOVELAS",
+  }
   "1":{
   "id": "1",
   "name": "NOVELAS TV",
