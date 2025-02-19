@@ -3,7 +3,7 @@
   "0":{
   "id":"1",
   "name":"TOP NOVELAS",
-  "description":"Top Novelas tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions !!! Veuillez nous contacter : fairspcc@gmail.com",
+  "description":"501",
   "live_url": "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
   "categorie":"NOVELAS",
@@ -15,7 +15,7 @@
   "1":{
   "id": "1",
   "name": "NOVELAS TV",
-  "description": "Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+  "description": "502",
   "live_url": "https://televisa-telenovelas-3-eu.rakuten.wurl.tv/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
   "categorie": "NOVELAS",
@@ -27,7 +27,7 @@
    "2":{
   "id": "2",
   "name": "GTV 1",
-  "description": "Gtv est une chaîne Generaliste 100% series Novelas mexicaine, indienne et Africaine du lundii au vendredi mais chaque samedi et Dimanche des bon films d'Actions",
+  "description": "503",
   "live_url": "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
   "categorie": "NOVELAS",
@@ -39,7 +39,7 @@
    "3":{
   "id": "3",
   "name": "PASSION NOVELAS",
-  "description": "Passion Novelas TV est une chaine de divertissement, des films et series mexicaines, Africains, bresiliens, phillipinesn et autres",
+  "description": "504",
   "live_url": "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8",
   "thumbnail": "https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
   "categorie": "NOVELAS",
@@ -51,7 +51,7 @@
    "4":{
   "id": "4",
   "name": "NOLLYWOOD TV",
-  "description": "Nollywood TV est une chaine televisee des series Africaines et autres.",
+  "description": "505",
   "live_url": "http://69.64.57.208/aforevo/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
   "categorie": "NOVELAS",
@@ -63,7 +63,7 @@
    "5":{
   "id": "5",
   "name": "NOVELAS TV 2",
-  "description": "Novelas TV 2 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres",
+  "description": "506",
   "live_url": "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8",
   "thumbnail": "https://od.lk/s/NDZfNTE4NjkxMzRf/telenovela.jpeg",
   "categorie": "NOVELAS",
@@ -75,7 +75,7 @@
    "16":{
   "id": "16",
   "name": "ROMANZA TV",
-  "description": "Romanza TV est une chaine des films et series pour votre divertissement",
+  "description": "507",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg",
   "categorie": "NOVELAS",
@@ -87,7 +87,7 @@
    "6":{
   "id": "6",
   "name": "A+ IVOIRE",
-  "description": "A+ ivoire TV est une chaine télévisée ivoiriens qui diffuse que des séries Africaines, informations, musiques et autres.",
+  "description": "508",
   "live_url": "http://69.64.57.208/atv/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
   "categorie": "NOVELAS",
@@ -99,7 +99,7 @@
    "7":{
   "id": "7",
   "name": "AFRO MAGIC",
-  "description": "Afro Magic Channel TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement",
+  "description": "509",
   "live_url": "https://video1.getstreamhosting.com:1936/8490/8490/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
   "categorie": "NOVELAS",
@@ -111,7 +111,7 @@
    "8":{
   "id": "8",
   "name": "TELE NOVELAS",
-  "description": "Tele Novelas TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
+  "description": "510",
   "live_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e057886-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7eaddd1-d723-4144-822d-b65de1267e5e&serverSideAds=false",
   "thumbnail": "https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg",
   "categorie": "NOVELAS",
@@ -123,7 +123,7 @@
    "9":{
   "id": "9",
   "name": "SERIE FANTATISQUE",
-  "description": "Serie Fantatisque TV 4 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
+  "description": "511",
   "live_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/625ec7a1c853fd00073b38fd/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f7-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=73335f0a-bb15-4a60-b2d2-8eaac6dadf6f&serverSideAds=false",
   "thumbnail": "https://od.lk/s/NDZfNTE4NzQxODdf/fantastiquetv.jpeg",
   "categorie": "NOVELAS",
@@ -135,7 +135,7 @@
    "10":{
   "id": "10",
   "name": "MADI TV",
-  "description": "MADI TV est la chaine de divertissement qui diffuse des films, séries et theatres en Swahili..",
+  "description": "512",
   "live_url": "http://89.163.146.99/MADI-TV/tracks-v1a1/mono.m3u8",
   "thumbnail": "https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
   "categorie": "NOVELAS",
@@ -147,7 +147,7 @@
    "11":{
   "id": "11",
   "name": "CINEMA HAUSA",
-  "description": "Cinema Hausa TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement en swahili, anglais et francais",
+  "description": "513",
   "live_url": "https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-hausa/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg",
   "categorie": "NOVELAS",
@@ -159,7 +159,7 @@
   "12":{
   "id": "12",
   "name": "AFRIWOOD BLOCKBUSTER",
-  "description": "Africawood BlockBuster TV est chaine mexicaine de divertissement, des films et series mexicaines et brésilienne pour votre divertissement",
+  "description": "514",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg",
   "categorie": "NOVELAS",
@@ -171,7 +171,7 @@
   "13":{
   "id": "13",
   "name": "TRUE AFRICA",
-  "description": "True Africa TV est chaîne mexicaine de divertissement, des films et series mexicaines pour votre divertissement",
+  "description": "515",
   "live_url": "https://origin3.afxp.telemedia.co.za/PremiumFree/trueafrican/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg",
   "categorie": "NOVELAS",
@@ -183,7 +183,7 @@
   "14":{
   "id": "14",
   "name": "AFROLAND TV",
-  "description": "Afroland TV est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians.",
+  "description": "516",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4265",
   "thumbnail": "https://od.lk/s/M18yODYwMDA3MDdf/afroland.png",
   "categorie": "NOVELAS",
@@ -195,7 +195,7 @@
   "15":{
   "id": "15",
   "name": "AFROLAND TV 2",
-  "description": "Afroland TV 2 est une chaine televisee qui diffuse que des film et series Africains surtout beaucoup plus nigerians.",
+  "description": "517",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492",
   "thumbnail": "https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg",
   "categorie": "NOVELAS",
@@ -207,7 +207,7 @@
   "17":{
   "id": "17",
   "name": "MANJARO TV",
-  "description": "Manjaro TV est chaine africaine de divertissement, des films et series Africains pour votre divertissement..",
+  "description": "518",
   "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4404",
   "thumbnail": "https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg",
   "categorie": "NOVELAS",
@@ -219,7 +219,7 @@
   "18":{
   "id": "18",
   "name": "TELEVISA",
-  "description": "Televisa TV est l'une chaînes camerounais qui diffuse les séries Novelas mexicaines et africaines sans oublier de la musique.",
+  "description": "519",
   "live_url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
   "categorie": "NOVELAS",
@@ -231,7 +231,7 @@
   "19":{
   "id": "19",
   "name": "TELE NOVELA",
-  "description": "Tele Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
+  "description": "520",
   "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
   "thumbnail": "https://od.lk/s/NDZfNTE4NjkxMzJf/telenovelastv.jpeg",
   "categorie": "NOVELAS",
@@ -243,7 +243,7 @@
   "20":{
   "id": "20",
   "name": "RTI 2",
-  "description": "RTI 2 est une chaine televisee ivoiriens qui diffuse que des informations, musiques, series mexicaines, bresiliens, phillipinesn et autres..",
+  "description": "521",
   "live_url": "https://enovativecdn.com/rticdn/smil:rti2.smil/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
   "categorie": "NOVELAS",
@@ -255,7 +255,7 @@
   "21":{
   "id": "21",
   "name": "NOVELAS TURCAS",
-  "description": "Novelas Turcas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres..",
+  "description": "522",
   "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088",
   "thumbnail": "https://od.lk/s/M18yOTQ2MDgzNDJf/novelaturcas.jpeg",
   "categorie": "NOVELAS",
@@ -267,7 +267,7 @@
   "22":{
   "id": "22",
   "name": "NOVELAS 3",
-  "description": "Novelas TV 3 est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres.",
+  "description": "523",
   "live_url": "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8",
   "thumbnail": "https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg",
   "categorie": "NOVELAS",
@@ -279,7 +279,7 @@
   "23":{
   "id": "23",
   "name": "AVA SERIES",
-  "description": "Ava Serie est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
+  "description": "524",
   "live_url": "https://avaserieshls.wns.live/hls/stream.m3u8",
   "thumbnail": "https://od.lk/s/M18yOTE2NzY3OTJf/avaseries.jpg",
   "categorie": "NOVELAS",
@@ -291,7 +291,7 @@
   "24":{
   "id": "24",
   "name": "NOVELISME TV",
-  "description": "Novelisme TV est l'une des chaines camerounais specialisee aux films et series Afro Africains....",
+  "description": "525",
   "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
   "thumbnail": "https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg",
   "categorie": "NOVELAS",
