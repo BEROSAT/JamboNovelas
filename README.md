@@ -130,10 +130,10 @@
   },
   "16":{
   "id": "17",
-  "name": "AFROLAND TV 2",
+  "name": "BBC DRAMA",
   "description": "517",
-  "live_url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=4492",
-  "thumbnail": "https://od.lk/s/M18yNTkxODk5MThf/africawood.jpg",
+  "live_url": "https://amg00793-amg00793c42-rakuten-fr-5446.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcdramafrance-rakutenfr/playlist.m3u8",
+  "thumbnail": "https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png",
   "categorie": "NOVELAS"
   },
   "17":{
