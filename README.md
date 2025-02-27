@@ -158,7 +158,7 @@
   "description": "520",
   "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
   "thumbnail": "https://od.lk/s/NDZfNTE4NjkxMzJf/telenovelastv.jpeg",
-  "categorie": "NOVELAS",
+  "categorie": "NOVELAS"
   },
   "20":{
   "id": "21",
