@@ -1,7 +1,7 @@
 # JamboNovelas
 {
   "0":{
-  "id":"0",
+  "id":"1",
   "name":"FREQUENCE NOVELAS",
   "description":"501",
   "live_url": "https://d20oth1416y9a1.cloudfront.net/playlist/amg00711-zylofast-frequencenovelas-rakutenus/playlist.m3u8",
@@ -9,13 +9,21 @@
   "categorie":"NOVELAS"
   },
   "1":{
-  "id":"1",
+  "id":"2",
   "name":"ZEE ONE",
   "description":"502",
   "live_url": "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
   "categorie":"NOVELAS"
-  },
+  }
+}
+
+
+
+
+
+
+
   "2":{
   "id": "2",
   "name": "NOVELAS TV",
