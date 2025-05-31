@@ -215,6 +215,14 @@
   "live_url": "http://tnt-television.com/MADI-TV/index.m3u8",
   "thumbnail":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
   "categorie":"NOVELAS"
+  },
+  "27":{
+  "id":"27",
+  "name":"TOP NOVELAS",
+  "description":"525",
+  "live_url": "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+  "categorie":"NOVELAS"
   }  
 }
 
