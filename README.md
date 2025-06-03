@@ -223,6 +223,14 @@
   "live_url": "https://stream.berosat.live:19360/top-novelas/top-novelas.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
   "categorie":"NOVELAS"
+  },
+  "28":{
+  "id":"28",
+  "name":"NOVELAS TV",
+  "description":"526",
+  "live_url": "http://145.239.5.177:80/152/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
+  "categorie":"NOVELAS"
   }  
 }
 
