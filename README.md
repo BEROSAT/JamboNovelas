@@ -226,6 +226,14 @@
   },
   "28":{
   "id":"28",
+  "name":"NOVELAS TV PLUS",
+  "description":"526",
+  "live_url": "http://145.239.5.177:80/132/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
+  "categorie":"NOVELAS"
+  },
+  "28":{
+  "id":"28",
   "name":"NOVELAS TV",
   "description":"526",
   "live_url": "http://145.239.5.177:80/152/index.m3u8",
