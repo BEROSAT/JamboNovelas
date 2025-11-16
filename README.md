@@ -11,15 +11,33 @@
   },
   "1":{
   "id":"2",
-  "name":"ZEE ONE",
+  "name":"CINEMA YORUBA",
   "number":"502",
   "description":"502",
-  "live_url": "https://87e3eec452134557a82da031f54a1899.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-fr_ZeeMagic/playlist.m3u8",
+  "live_url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/cinema-yoruba/04076de6-fc5b-4a3f-ab2f-b090a6f442cd/0.m3u8",
   "thumbnail":"https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
   "categorie":"NOVELAS"
   },
   "2":{
   "id":"3",
+  "name":"TELEVISA ESPAGNOL",
+  "number":"518",
+  "description":"518",
+  "live_url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "3":{
+  "id":"4",
+  "name":"TELEVISA FRANCAIS",
+  "number":"503",
+  "description":"503",
+  "live_url": "https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
+  "categorie":"NOVELAS"
+  },
+  "4":{
+  "id":"5",
   "name":"NOVELAS TV",
   "number":"503",
   "description":"503",
@@ -27,44 +45,8 @@
   "thumbnail":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
   "categorie":"NOVELAS"
   },
-  "3":{
-  "id":"4",
-  "name":"GTV 1 TV",
-  "number":"504",
-  "description":"504",
-  "live_url": "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
-  "categorie":"NOVELAS"
-  },
-  "4":{
-  "id":"5",
-  "name":"PASSION NOVELAS",
-  "number":"505",
-  "description":"505",
-  "live_url": "https://d219tvyafu2vka.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-csm4hzxgjueax/index.m3u8",
-  "thumbnail":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
-  "categorie":"NOVELAS"
-  },
   "5":{
   "id":"6",
-  "name":"NOLLYWOOD TV",
-  "number":"506",
-  "description":"506",
-  "live_url": "http://69.64.57.208/aforevo/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
-  "categorie":"NOVELAS"
-  },
-  "6":{
-  "id":"7",
-  "name":"PASSION BOLLYWOOD",
-  "number":"507",
-  "description":"507",
-  "live_url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9a653242c406e725/channels/2888294c-5918-42f6-a2bd-91d49b26634c/03bc9e11-13bd-4a07-ba09-0586d910741d/PassionBollywood_FR.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
-  "categorie":"NOVELAS"
-  },
-  "7":{
-  "id":"8",
   "name":"NOVELAS TV 2",
   "number":"508",
   "description":"508",
@@ -72,8 +54,62 @@
   "thumbnail":"https://od.lk/s/NDZfNTE4NjkxMzRf/telenovela.jpeg",
   "categorie":"NOVELAS"
   },
+  "6":{
+  "id":"7",
+  "name":"TELE NOVELAS",
+  "number":"519",
+  "description":"519",
+  "live_url": "https://d1qf1fnbo60xec.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-arjkqtr3hyot6/master.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNTE4NjkxMzJf/telenovelastv.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "7":{
+  "id":"8",
+  "name":"PASSION NOVELAS",
+  "number":"505",
+  "description":"505",
+  "live_url": "https://d18gemy7v2tebj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0n7p3ckq9ethd/PassionNovelas_FR.m3u8",
+  "thumbnail":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
+  "categorie":"NOVELAS"
+  },
   "8":{
   "id":"9",
+  "name":"PASSION BOLLYWOOD",
+  "number":"507",
+  "description":"507",
+  "live_url": "https://d30nk0rfmci3c2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t0spvfjnrozo2/PassionBollywood_FR.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgzMzg3NDNf/passionBollywood.jpg",
+  "categorie":"NOVELAS"
+  },
+  "9":{
+  "id":"10",
+  "name":"ZEE ONE",
+  "number":"502",
+  "description":"502",
+  "live_url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzgzMzUzNzNf/zeeMagic.jpg",
+  "categorie":"NOVELAS"
+  },
+  "10":{
+  "id":"11",
+  "name":"NOLLYWOOD TV",
+  "number":"506",
+  "description":"506",
+  "live_url": "http://69.64.57.208/aforevo/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
+  "categorie":"NOVELAS"
+  },
+  "11":{
+  "id":"12",
+  "name":"NOLLYWOOD EPIC",
+  "number":"506",
+  "description":"506",
+  "live_url": "http://69.64.57.208/aforevo/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
+  "categorie":"NOVELAS"
+  },
+  "12":{
+  "id":"13",
   "name":"ROMANZA TV",
   "number":"509",
   "description":"509",
@@ -81,8 +117,8 @@
   "thumbnail":"https://od.lk/s/M18yOTA5NzY3MDRf/romanza.jpeg",
   "categorie":"NOVELAS"
   },
-  "9":{
-  "id":"10",
+  "13":{
+  "id":"14",
   "name":"A+ IVOIRE",
   "number":"510",
   "description":"510",
@@ -90,8 +126,8 @@
   "thumbnail":"https://od.lk/s/M18yOTI2NjYzOTFf/a%2Bivoire.jpeg",
   "categorie":"NOVELAS"
   },
-  "10":{
-  "id":"11",
+  "14":{
+  "id":"15",
   "name":"AFRO MAGIC",
   "number":"511",
   "description":"511",
@@ -99,8 +135,17 @@
   "thumbnail":"https://od.lk/s/M18yOTE2NzM5MzJf/afromagic.jpg",
   "categorie":"NOVELAS"
   },
-  "11":{
-  "id":"12",
+  "15":{
+  "id":"16",
+  "name":"GTV 1 TV",
+  "number":"504",
+  "description":"504",
+  "live_url": "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
+  "categorie":"NOVELAS"
+  },
+  "16":{
+  "id":"17",
   "name":"CINEMA HAUSA",
   "number":"512",
   "description":"512",
@@ -108,8 +153,8 @@
   "thumbnail":"https://od.lk/s/M18yODYwMDA2OTFf/cinemahausa.jpg",
   "categorie":"NOVELAS"
   },
-  "12":{
-  "id":"13",
+  "17":{
+  "id":"18",
   "name":"AFRIWOOD BLOCKBUSTER",
   "number":"513",
   "description":"513",
@@ -117,8 +162,8 @@
   "thumbnail":"https://od.lk/s/M18yODYwMDA2OTRf/afriwoods.jpg",
   "categorie":"NOVELAS"
   },
-  "13":{
-  "id":"14",
+  "18":{
+  "id":"19",
   "name":"TRUE AFRICA",
   "number":"514",
   "description":"514",
@@ -126,8 +171,8 @@
   "thumbnail":"https://od.lk/s/M18yODYwMDA2OThf/trueafrica.jpg",
   "categorie":"NOVELAS"
   },
-  "14":{
-  "id":"15",
+  "19":{
+  "id":"20",
   "name":"AFROLAND TV",
   "number":"515",
   "description":"515",
@@ -135,8 +180,8 @@
   "thumbnail":"https://od.lk/s/M18yODYwMDA3MDdf/afroland.png",
   "categorie":"NOVELAS"
   },
-  "15":{
-  "id":"16",
+  "20":{
+  "id":"21",
   "name":"BBC DRAMA",
   "number":"516",
   "description":"516",
@@ -144,8 +189,8 @@
   "thumbnail":"https://od.lk/s/M18yODYzNjMwMDBf/bbcdrama.png",
   "categorie":"NOVELAS"
   },
-  "16":{
-  "id":"17",
+  "21":{
+  "id":"22",
   "name":"MANJARO TV",
   "number":"517",
   "description":"517",
@@ -153,26 +198,8 @@
   "thumbnail":"https://od.lk/s/M18yOTQ2MDg4MDdf/Manjarotv.jpg",
   "categorie":"NOVELAS"
   },
-  "17":{
-  "id":"18",
-  "name":"TELEVISA",
-  "number":"518",
-  "description":"518",
-  "live_url": "https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
-  "categorie":"NOVELAS"
-  },
-  "18":{
-  "id":"19",
-  "name":"TELE NOVELA",
-  "number":"519",
-  "description":"519",
-  "live_url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152",
-  "thumbnail":"https://od.lk/s/NDZfNTE4NjkxMzJf/telenovelastv.jpeg",
-  "categorie":"NOVELAS"
-  },
-  "19":{
-  "id":"20",
+  "22":{
+  "id":"23",
   "name":"RTI 2",
   "number":"520",
   "description":"520",
@@ -180,8 +207,8 @@
   "thumbnail":"https://od.lk/s/M18yNTkxODU4NDdf/rtid.jpg",
   "categorie":"NOVELAS"
   },
-  "20":{
-  "id":"21",
+  "23":{
+  "id":"24",
   "name":"NOVELAS TURCAS",
   "number":"521",
   "description":"521",
@@ -189,17 +216,17 @@
   "thumbnail":"https://od.lk/s/M18yOTQ2MDgzNDJf/novelaturcas.jpeg",
   "categorie":"NOVELAS"
   },
-  "21":{
-  "id":"22",
-  "name":"NOVELAS 3",
+  "24":{
+  "id":"25",
+  "name":"NOVELAS CHANNEL",
   "number":"522",
   "description":"522",
   "live_url": "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8",
   "thumbnail":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg",
   "categorie":"NOVELAS"
   },
-  "22":{
-  "id":"23",
+  "25":{
+  "id":"26",
   "name":"AVA SERIES",
   "number":"523",
   "description":"523",
@@ -207,8 +234,8 @@
   "thumbnail":"https://od.lk/s/M18yOTE2NzY3OTJf/avaseries.jpg",
   "categorie":"NOVELAS"
   },
-  "23":{
-  "id":"24",
+  "26":{
+  "id":"27",
   "name":"NOVELISME TV",
   "number":"524",
   "description":"524",
@@ -216,8 +243,8 @@
   "thumbnail":"https://od.lk/s/M18yOTQ1OTg2Mjlf/novelism.jpeg",
   "categorie":"NOVELAS"
   },
-  "24":{
-  "id":"25",
+  "27":{
+  "id":"28",
   "name":"TELE NOVELAS",
   "number":"525",
   "description":"525",
@@ -225,8 +252,8 @@
   "thumbnail":"https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg",
   "categorie":"NOVELAS"
   },
-  "25":{
-  "id":"26",
+  "28":{
+  "id":"29",
   "name":"SERIE FANTATISQUE",
   "number":"526",
   "description":"526",
@@ -234,8 +261,8 @@
   "thumbnail":"https://od.lk/s/NDZfNTE4NjkxMjdf/novelasplus.jpeg",
   "categorie":"NOVELAS"
   },
-  "26":{
-  "id":"27",
+  "29":{
+  "id":"30",
   "name":"MADI TV",
   "description":"527",
   "number":"527",
@@ -243,8 +270,8 @@
   "thumbnail":"https://od.lk/s/M18yODY2NzUyNDBf/madi.jpg",
   "categorie":"NOVELAS"
   },
-  "27":{
-  "id":"27",
+  "30":{
+  "id":"31",
   "name":"TOP NOVELAS",
   "number":"528",
   "description":"525",
@@ -252,6 +279,31 @@
   "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
   "categorie":"NOVELAS"
   },
+  "31":{
+  "id":"32",
+  "name":"SONY ONE THRILLER",
+  "number":"528",
+  "description":"Sony ONE SERIES THRILLER",
+  "live_url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+  "categorie":"NOVELAS"
+  },
+  "32":{
+  "id":"33",
+  "name":"SONY ONE THRILLER",
+  "number":"528",
+  "description":"Sony ONE SERIES THRILLER",
+  "live_url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+  "categorie":"NOVELAS"
+  }
+}
+
+
+
+
+
+
   "28":{
   "id":"28",
   "name":"NOVELAS TV PLUS",
@@ -269,6 +321,5 @@
   "live_url": "http://145.239.5.177:80/152/index.m3u8",
   "thumbnail":"https://od.lk/s/M18yNTkxOTAwMDFf/novelasone.jpg",
   "categorie":"NOVELAS"
-  }  
-}
+  } 
 
