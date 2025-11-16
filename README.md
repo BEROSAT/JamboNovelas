@@ -95,7 +95,7 @@
   "name":"ZEE ONE ENGLISH",
   "number":"511",
   "description":"502",
-  "live_url": "https://7689426c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1mcl9aZWVNYWdpY19ITFM/playlist.m3u8",
+  "live_url": "https://4bc5d2b3.wurl.com/v1/asia_tv_limited_zeeworld_1/ohlscdn_us/V00000001/7200/HLS/playlist.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODg3OTA4ODVf/zeeOnetv.png",
   "categorie":"NOVELAS"
   },
