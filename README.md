@@ -33,7 +33,7 @@
   "number":"503",
   "description":"503",
   "live_url": "https://40413a8d4fab4568b22187b5d7cd15c9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_Televisa/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/M18yNTQyMjA4MDVf/novelastv.jpg",
+  "thumbnail":"https://od.lk/s/M18yODczOTQ4MTlf/images.jpeg",
   "categorie":"NOVELAS"
   },
   "4":{
@@ -104,7 +104,7 @@
   "name":"NOLLYWOOD EPIC",
   "number":"506",
   "description":"506",
-  "live_url": "http://69.64.57.208/aforevo/playlist.m3u8",
+  "live_url": "http://145.239.5.177/148/index.m3u8",
   "thumbnail":"https://od.lk/s/M18yOTcyNTIwMjFf/Nollywood.png",
   "categorie":"NOVELAS"
   },
@@ -137,11 +137,11 @@
   },
   "15":{
   "id":"16",
-  "name":"GTV 1 TV",
+  "name":"MUNDO SERIES",
   "number":"504",
-  "description":"504",
-  "live_url": "https://ott.livelegitpro.in/pusa/gtv1/index.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNjM4NzQ4ODRf/gtv1.jpg",
+  "description":"Mundo Series est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
+  "live_url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e3189902-0967-48a7-9d32-9401e34471c6/manifest.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODcyODc2Njlf/mundoserie.jpeg",
   "categorie":"NOVELAS"
   },
   "16":{
@@ -222,7 +222,7 @@
   "number":"522",
   "description":"522",
   "live_url": "https://video1.getstreamhosting.com:1936/8248/8248/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/M18yNjg2OTk4ODlf/novelatv.jpg",
+  "thumbnail":"https://od.lk/s/NDZfODQwNTEyMTBf/novelaChannel.jpeg",
   "categorie":"NOVELAS"
   },
   "25":{
@@ -281,20 +281,92 @@
   },
   "31":{
   "id":"32",
-  "name":"SONY ONE THRILLER",
+  "name":"TVI FICAO",
   "number":"528",
-  "description":"Sony ONE SERIES THRILLER",
-  "live_url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+  "description":"TVI ficao é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
+  "live_url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODM5MTUxNDBf/ficao.jpeg",
   "categorie":"NOVELAS"
   },
   "32":{
   "id":"33",
-  "name":"SONY ONE THRILLER",
+  "name":"AM EPIC TV",
   "number":"528",
-  "description":"Sony ONE SERIES THRILLER",
-  "live_url": "https://483a1e90c18641c9a6d27becd41ad892.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-821-FR-SONYONESRIESTHRILLER-LG_FR/playlist.m3u8",
-  "thumbnail":"https://od.lk/s/NDZfNzAzMTE3NDBf/top-novelastv.png",
+  "description":"AM Epic tv est une chaine specialise au series novelas Indiennes et autres",
+  "live_url": "http://145.239.5.177/214/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODU0MTc3MThf/mepic.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "33":{
+  "id":"34",
+  "name":"TVI AFRICA",
+  "number":"528",
+  "description":"TVI AFRICA é um canal de entretenimento com séries românticas, ação, drama, ficção e outros",
+  "live_url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfNjE4MTcyNzRf/tviAfrica.jpg",
+  "categorie":"NOVELAS"
+  },
+  "34":{
+  "id":"35",
+  "name":"SERIE CLUB",
+  "number":"528",
+  "description":"Serie Club tv est une chaine specialise au series novelas Indiennes et autres",
+  "live_url": "http://145.239.5.177/355/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODU0MTc3MzJf/serieclub.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "35":{
+  "id":"36",
+  "name":"AND TV",
+  "number":"528",
+  "description":"Serie Club tv est une chaine specialise au series novelas Indiennes et autres",
+  "live_url": "https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODQwNTE0OTNf/AndTV.jpg",
+  "categorie":"NOVELAS"
+  },
+  "36":{
+  "id":"37",
+  "name":"STAR+ NOVELAS",
+  "number":"528",
+  "description":"STAR PLUS-NOVELAS TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+  "live_url": "https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODIzODAxMzJf/starNovelas.jpg",
+  "categorie":"NOVELAS"
+  },
+  "37":{
+  "id":"38",
+  "name":"SERIES NOVELAS",
+  "number":"528",
+  "description":"Series Novelas TV est une chaine televisee qui diffuse que des series mexicaines, bresiliens, phillipinesn et autres....",
+  "live_url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f8ed2d1c34c2300073bf02c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e055172-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4bf0c406-dfcb-4037-8de6-bd12c393c6a5&serverSideAds=false",
+  "thumbnail":"https://od.lk/s/NDZfNTMxNTE1ODNf/serienovelas.jpg",
+  "categorie":"NOVELAS"
+  },
+  "38":{
+  "id":"39",
+  "name":"TEVA TV",
+  "number":"528",
+  "description":"Teva TV est une chaine televisee qui diffuse que des series Francais, mexicaines, bresiliens, phillipinesn et autres....",
+  "live_url": "http://145.239.5.177/356/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18yODk0MDk2NjBf/teva.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "39":{
+  "id":"40",
+  "name":"TELEMUNDO ACTION",
+  "number":"528",
+  "description":"Telemundo accion eé um canal de entretenimento com séries românticas, ação, drama, ficção e outros.",
+  "live_url": "https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODcyODcwMDlf/telemundoAccion.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "40":{
+  "id":"41",
+  "name":"SONY ONE NOVELAS",
+  "number":"528",
+  "description":"Sony Novelas est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
+  "live_url": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODcyODcxNDhf/sonyOne.png",
   "categorie":"NOVELAS"
   }
 }
