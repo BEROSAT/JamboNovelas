@@ -47,7 +47,7 @@
   },
   "5":{
   "id":"6",
-  "name":"NOVELAS TV 2",
+  "name":"STROMCAST NOVELAS",
   "number":"506",
   "description":"508",
   "live_url": "https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/1200.m3u8",
