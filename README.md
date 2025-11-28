@@ -69,7 +69,7 @@
   "number":"508",
   "description":"505",
   "live_url": "https://d18gemy7v2tebj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0n7p3ckq9ethd/PassionNovelas_FR.m3u8",
-  "thumbnail":"https://od.lk/s/NzNfODE5NDkwMTBf/PassioNovelas.jpg",
+  "thumbnail":"https://od.lk/s/NDZfODkxNjgwMzhf/PassionNovelas.png",
   "categorie":"NOVELAS"
   },
   "8":{
@@ -367,6 +367,33 @@
   "description":"Sony Novelas est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
   "live_url": "https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8",
   "thumbnail":"https://od.lk/s/NDZfODcyODcxNDhf/sonyOne.png",
+  "categorie":"NOVELAS"
+  },
+  "41":{
+  "id":"42",
+  "name":"NOVELAS",
+  "number":"541",
+  "description":"NOVELAS tv est une chaine specialise au series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions",
+  "live_url": "https://vavoo.to/play/1626033852/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODkxNTg1NTFf/novelas.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "42":{
+  "id":"43",
+  "name":"NOVELAS PLUS",
+  "number":"542",
+  "description":"NOVELAS Plus tv est une chaine specialise au series  series novelas mexicaines, Bresiliennes, philipiennes, Africaines avec tant des emotions",
+  "live_url": "https://vavoo.to/play/3248193038/index.m3u8",
+  "thumbnail":"https://od.lk/s/NDZfODkxNjgwMzZf/novelasPlustv.jpeg",
+  "categorie":"NOVELAS"
+  },
+  "43":{
+  "id":"44",
+  "name":"CANAL+ SERIES",
+  "number":"543",
+  "description":"CANAL+ SERIES est une chaine international de divertissement, des films et series Novelas mexicains, Europeens et Africains pour votre divertissement",
+  "live_url": "https://vavoo.to/play/4289865749/index.m3u8",
+  "thumbnail":"https://od.lk/s/M18zMDQ3OTI4NTlf/canalplusSerie.png",
   "categorie":"NOVELAS"
   }
 }
